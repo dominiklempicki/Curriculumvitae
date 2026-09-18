@@ -1,2 +1,1 @@
-# Curriculum vitae
-# https://wedkarstwozkapitanem.github.io/Curriculumvitae/
+# Repozytorium zawiera moje CV dostępne pod [Repozytorium:](https://wedkarstwozkapitanem.github.io/Curriculumvitae)
