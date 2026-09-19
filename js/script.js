@@ -29,3 +29,8 @@ certifikaty_male.forEach((e)=> {
     })
 })
 
+function ustaw_wiek() {
+    moje_urodziny = new Date("05.02.2006");
+    data_dzisiejsza = new Date();
+    document.getElementById("wiek").innerHTML = moje_urodziny - data_dzisiejsza;
+}
